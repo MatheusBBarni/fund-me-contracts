@@ -17,4 +17,5 @@ export const networkConfig: networkConfigInfo = {
         blockConfirmations: 6,
     },
 }
+
 export const developmentChains = ['hardhat', 'localhost']
